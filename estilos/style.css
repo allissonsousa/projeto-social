@@ -36,7 +36,8 @@ iframe#tela {
     text-align: right;
 }
 section#redes img {
-    width: 30px;
+    width: 6%;
+    max-width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.596);
